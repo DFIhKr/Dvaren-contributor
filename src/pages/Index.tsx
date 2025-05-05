@@ -43,11 +43,11 @@ const Index = () => {
 <div className="bg-white py-16">
   <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div className="text-center mb-10">
-      <h2 className="text-3xl font-extrabold text-gray-900">
-        See How It Works
+      <h2 className="text-4xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-blue-600 via-purple-600 to-pink-500 bg-clip-text text-transparent">
+        Apa itu Vistacreate?
       </h2>
-      <p className="mt-4 max-w-2xl mx-auto text-xl text-gray-500">
-        Watch our video to learn more about becoming a contributor.
+      <p className="text-gray-600 text-lg mb-8">
+        Jangan lupa tonton pengenalan tentang vistacreate ya.
       </p>
     </div>
 
