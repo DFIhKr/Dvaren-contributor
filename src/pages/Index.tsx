@@ -39,6 +39,7 @@ const Index = () => {
           </div>
         </div>
       </section>
+      <VideoSection/>
 
       {/* Features Section with enhanced cards */}
       <section className="py-20 px-4">
